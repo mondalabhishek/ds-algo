@@ -1,4 +1,4 @@
-package com.practice.test.hashtable;
+package com.practice.ds.hashtable;
 
 //2,5,0,5,2,0,1
 //Improve o(n^2) nested for loop logic too return 5 instead of 2

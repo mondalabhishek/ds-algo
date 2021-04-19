@@ -1,4 +1,4 @@
-package com.practice.test.stack.queue;
+package com.practice.ds.queue;
 
 import java.util.function.Consumer;
 

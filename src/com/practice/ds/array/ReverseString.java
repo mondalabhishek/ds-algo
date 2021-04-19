@@ -1,4 +1,4 @@
-package com.practice.test.array;
+package com.practice.ds.array;
 
 import java.io.BufferedReader;
 import java.io.IOException;

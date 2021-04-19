@@ -1,4 +1,4 @@
-package com.practice.test.stack;
+package com.practice.ds.stack;
 
 import java.util.function.Consumer;
 

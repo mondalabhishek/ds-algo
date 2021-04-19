@@ -1,8 +1,8 @@
-package com.practice.test.stack.queue;
+package com.practice.ds.queue;
 
 import java.util.function.Consumer;
 
-import com.practice.test.stack.MyStack;
+import com.practice.ds.stack.MyStack;
 
 /**
  * Implementation of Queue using two stack

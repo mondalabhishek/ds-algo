@@ -1,4 +1,4 @@
-package com.practice.test.linkedlist;
+package com.practice.ds.linkedlist;
 
 import java.util.function.Consumer;
 
